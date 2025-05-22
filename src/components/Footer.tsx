@@ -93,6 +93,7 @@ export const Footer = () => {
         </div>
         <div className="border-t border-neutral-800 pt-8 text-center text-neutral-400">
           <p>© 2025 Setyon SACCO. All Rights Reserved.</p>
+          jasmitech solution ltd
         </div>
       </div>
     </footer>
